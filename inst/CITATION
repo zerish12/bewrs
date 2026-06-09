@@ -1,0 +1,8 @@
+bibentry(
+  bibtype = "Manual",
+  title = "bewrs: Bayesian Early-Warning Risk Surveillance for Healthcare Performance Monitoring",
+  author = person("Muhammad Zahir", "Khan"),
+  year = "2026",
+  note = "R package version 0.1.0",
+  url = "https://github.com/mzkfs1974/bewrs"
+)
